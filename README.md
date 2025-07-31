@@ -1,3 +1,4 @@
 We belong to School of Engineering.
-Hi, We are from Shiv Nadar University Chennaigit checkout -b update-readme
-Local change line
+Hi, We are from Shiv Nadar University Chennai
+******
+remote change line : This is a remote change line.
